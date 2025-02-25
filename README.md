@@ -1,4 +1,4 @@
-# Simple Python Calculator
+# Scientific Calculator
 This is a simple command-line calculator written in Python. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division. The project is designed to be easy to use and understand for both beginners and intermediate Python developers.
 
 ## Features
